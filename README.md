@@ -6,6 +6,10 @@
 本最新版本修复了冷启动连接超时卡滞问题，并且取消了一机一码mmx_challenge 绑定，作为通用安装包发布。
 文件解压后的Meta和Data为最新版投屏文件 其余各个文件夹为工具包 全网的投屏文件和工具包都是本人原创开发制作的。
 
+## 工具更新说明（2026-11-25）
+
+已更新“二代RGI版卸载”工具，同时兼容二代 RGI 早期加密安装版和当前公开安装版的卸载，并修复上一版卸载工具对公开版卸载不彻底的问题。
+
 #准备32G以下的U盘或者SD卡 并格式化为FAT32格式
 #准备32G以下的U盘或者SD卡 并格式化为FAT32格式
 #准备32G以下的U盘或者SD卡 并格式化为FAT32格式
@@ -44,6 +48,10 @@ Original development is not easy, and working through the night takes its toll. 
 This latest release fixes connection timeouts and stalls during cold starts. It also removes the per-device `mmx_challenge` binding and is distributed as a universal installation package.
 
 After extracting the archive, the `Meta` and `Data` directories contain the latest projection package. The remaining directories contain supporting tools. All projection packages and toolkits available online were originally developed and produced by me.
+
+## Tool update note (2026-11-25)
+
+The `二代RGI版卸载` tool has been updated to support uninstalling both early encrypted second-generation RGI installations and the current public release. This fixes the previous uninstaller leaving parts of the public release behind.
 
 **Prepare a USB drive or SD card smaller than 32 GB and format it as FAT32.**
 
